@@ -1,6 +1,6 @@
 import "./App.css";
 import React from "react";
-import Form from "./form";
+
 import Weather from "./Weather";
 import Forecast from "./Forecast";
 
@@ -15,9 +15,8 @@ function App() {
           className="shecodes-logo"
         />
 
-        <Form />
         <hr />
-        <Weather />
+        <Weather city="Lisbon" />
         <Forecast />
 
         <hr />
