@@ -69,7 +69,7 @@ function App() {
         <hr />
         <small>
           <a
-            href="https://github.com/olgakassian/weather-app"
+            href="https://github.com/olgakassian/react-weather-app"
             target="_blank"
             rel="noreferrer"
           >
