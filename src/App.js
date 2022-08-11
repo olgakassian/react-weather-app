@@ -29,7 +29,10 @@ function App() {
           >
             Open-source code
           </a>
-          , by Olga Kassian
+          , by{" "}
+          <a href="https://olgakassian.com" target="_blank" rel="noreferrer">
+            Olga Kassian
+          </a>
         </small>
       </div>
     </div>
